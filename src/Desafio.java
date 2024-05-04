@@ -62,7 +62,7 @@ public class Desafio {
                 } else {
                     saldo -= valorSaque;
                     System.out.println("Saque efetuado com sucesso.");
-                    System.out.println(" Novo saldo é: R$ " + saldo);
+                    System.out.println(" Novo saldo é: R$ " );
                 }
             }
         }
